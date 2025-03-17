@@ -81,7 +81,7 @@ However, further enhancements are required for challenging real-world conditions
 These improvements will bring us closer to a more robust and reliable lane detection system for autonomous driving.
 
 
-## 🛠️ Installation
+🛠️ Installation
 🔧 Requirements
 Python 3.x 🐍
 OpenCV 🖼️
