@@ -82,7 +82,7 @@ These improvements will bring us closer to a more robust and reliable lane detec
 
 
 ## 🛠️ Installation
-🔧 Requirements
+## 🔧 Requirements
 Python 3.x 🐍
 OpenCV 🖼️
 NumPy 🔢
